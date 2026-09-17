@@ -1,0 +1,156 @@
+{
+  "thuong": {
+    "ten_hien_thi": "Thường ⚪",
+    "mau_so": 2,
+    "loi_nhan": "Trời nhẹ lên cao, bạn câu được",
+    "danh_sach": [
+      {
+        "ten": "Cá Chép",
+        "icon": "🐟",
+        "gia": 10,
+        "ti_le_rieng": 10,
+        "link_hinh": "https://placehold.co/600x400/808080/ffffff/png?text=Ca+Chep"
+      },
+      {
+        "ten": "Cá Rô",
+        "icon": "🐠",
+        "gia": 12,
+        "ti_le_rieng": 10,
+        "link_hinh": "https://placehold.co/600x400/808080/ffffff/png?text=Ca+Ro"
+      },
+      {
+        "ten": "Cá Trắm",
+        "icon": "🐟",
+        "gia": 15,
+        "ti_le_rieng": 8,
+        "link_hinh": "https://placehold.co/600x400/808080/ffffff/png?text=Ca+Tram"
+      },
+      {
+        "ten": "Ủng Rách",
+        "icon": "👢",
+        "gia": 1,
+        "ti_le_rieng": 5,
+        "link_hinh": "https://placehold.co/600x400/808080/ffffff/png?text=Ung+Rach"
+      }
+    ]
+  },
+  "hiem": {
+    "ten_hien_thi": "Hiếm 🟢",
+    "mau_so": 8,
+    "loi_nhan": "Cần rung nhẹ, bạn kéo lên được",
+    "danh_sach": [
+      {
+        "ten": "Cá Hồi",
+        "icon": "🐡",
+        "gia": 100,
+        "ti_le_rieng": 10,
+        "link_hinh": "https://placehold.co/600x400/22c55e/ffffff/png?text=Ca+Hoi"
+      },
+      {
+        "ten": "Tôm Hùm",
+        "icon": "🦞",
+        "gia": 150,
+        "ti_le_rieng": 8,
+        "link_hinh": "https://placehold.co/600x400/22c55e/ffffff/png?text=Tom+Hum"
+      },
+      {
+        "ten": "Cua Biển",
+        "icon": "🦀",
+        "gia": 120,
+        "ti_le_rieng": 9,
+        "link_hinh": "https://placehold.co/600x400/22c55e/ffffff/png?text=Cua+Bien"
+      }
+    ]
+  },
+  "sieu_hiem": {
+    "ten_hien_thi": "Siêu Hiếm 🔵",
+    "mau_so": 25,
+    "loi_nhan": "MẶT NƯỚC XAO ĐỘNG! Bạn câu được",
+    "danh_sach": [
+      {
+        "ten": "Cá Mập",
+        "icon": "🦈",
+        "gia": 800,
+        "ti_le_rieng": 10,
+        "link_hinh": "https://placehold.co/600x400/3b82f6/ffffff/png?text=Ca+Map"
+      },
+      {
+        "ten": "Bạch Tuộc",
+        "icon": "🐙",
+        "gia": 900,
+        "ti_le_rieng": 8,
+        "link_hinh": "https://placehold.co/600x400/3b82f6/ffffff/png?text=Bach+Tuoc"
+      },
+      {
+        "ten": "Rùa Biển",
+        "icon": "🐢",
+        "gia": 700,
+        "ti_le_rieng": 9,
+        "link_hinh": "https://placehold.co/600x400/3b82f6/ffffff/png?text=Rua+Bien"
+      }
+    ]
+  },
+  "epic": {
+    "ten_hien_thi": "Cực Phẩm 🟣",
+    "mau_so": 60,
+    "loi_nhan": "CẢ MẶT BIỂN CHAO ĐẢO! Bạn vừa bắt được",
+    "danh_sach": [
+      {
+        "ten": "Cá Voi Xanh",
+        "icon": "🐋",
+        "gia": 5000,
+        "ti_le_rieng": 10,
+        "link_hinh": "https://placehold.co/600x400/a855f7/ffffff/png?text=Ca+Voi+Xanh"
+      },
+      {
+        "ten": "Cá Heo Ánh Trăng",
+        "icon": "🐬",
+        "gia": 4500,
+        "ti_le_rieng": 9,
+        "link_hinh": "https://placehold.co/600x400/a855f7/ffffff/png?text=Ca+Heo+Anh+Trang"
+      }
+    ]
+  },
+  "legend": {
+    "ten_hien_thi": "Huyền Thoại 🟡",
+    "mau_so": 100,
+    "loi_nhan": "MẶT BIỂN RUNG CHUYỂN! BẠN VỪA THU PHỤC",
+    "danh_sach": [
+      {
+        "ten": "Rồng Biển",
+        "icon": "🐉",
+        "gia": 50000,
+        "ti_le_rieng": 10,
+        "link_hinh": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NxN3J2MDR4MnVsenNia2I0eHltN2t0bnF3aHUybWIwbHc4dzIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuQmhmAAdJFLi/giphy.gif"
+      },
+      {
+        "ten": "Kỳ Lân Biển",
+        "icon": "🦄",
+        "gia": 45000,
+        "ti_le_rieng": 8,
+        "link_hinh": "https://placehold.co/600x400/eab308/ffffff/png?text=Ky+Lan+Bien"
+      }
+    ]
+  },
+  "than_thoai": {
+    "ten_hien_thi": "Thần Thoại 🔴",
+    "mau_so": 300,
+    "loi_nhan": "TRỜI ĐẤT RUNG CHUYỂN, BIỂN CẢ NỔI SÓNG THẦN! BẠN VỪA THU PHỤC ĐƯỢC",
+    "danh_sach": [
+      {
+        "ten": "Thủy Quái Kraken",
+        "icon": "🌊",
+        "gia": 200000,
+        "ti_le_rieng": 6,
+        "link_hinh": "https://placehold.co/600x400/ef4444/ffffff/png?text=Kraken"
+      },
+      {
+        "ten": "Phượng Hoàng Biển",
+        "icon": "🔥",
+        "gia": 180000,
+        "ti_le_rieng": 4,
+        "link_hinh": "https://placehold.co/600x400/ef4444/ffffff/png?text=Phuong+Hoang+Bien"
+      }
+    ]
+  }
+}
